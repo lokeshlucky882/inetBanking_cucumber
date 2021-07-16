@@ -1,0 +1,7 @@
+pageObjects\LoginPage.class
+testRunner\TestRunner.class
+stepDefinitions\Base.class
+pageObjects\NewCustomerPage.class
+stepDefinitions\Steps.class
+pageObjects\ManagerHomePage.class
+utilities\ReadConfig.class

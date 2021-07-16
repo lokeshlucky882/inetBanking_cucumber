@@ -1,0 +1,467 @@
+2021-07-16 19:12:54,178 - inetBanking -INFO - *************Chrome browser is launched*******************
+2021-07-16 19:12:59,408 - inetBanking -INFO - *************User open the URL*******************
+2021-07-16 19:12:59,531 - inetBanking -INFO - *************User maximise the window*******************
+2021-07-16 19:12:59,670 - inetBanking -INFO - *************User enter the User name*******************
+2021-07-16 19:12:59,798 - inetBanking -INFO - *************User enter the Password*******************
+2021-07-16 19:13:00,957 - inetBanking -INFO - *************User clicked on Login button*******************
+2021-07-16 19:13:00,963 - inetBanking -INFO - *************Page title is Matched*******************
+2021-07-16 19:13:00,969 - inetBanking -INFO - *************User clicked on New Customer button*******************
+2021-07-16 19:13:01,454 - inetBanking -INFO - *************Page title is Matched*******************
+2021-07-16 19:13:01,562 - inetBanking -INFO - *************User enter the Customer name*******************
+2021-07-16 19:13:01,628 - inetBanking -INFO - *************User select the Customer gender*******************
+2021-07-16 19:13:01,810 - inetBanking -INFO - *************User enter the Customer DOB*******************
+2021-07-16 19:13:06,897 - inetBanking -INFO - *************User enter the Customer address*******************
+2021-07-16 19:13:06,974 - inetBanking -INFO - *************User enter the Customer City*******************
+2021-07-16 19:13:08,203 - inetBanking -INFO - *************User enter the Customer State*******************
+2021-07-16 19:13:08,270 - inetBanking -INFO - *************User enter the Customer PinCode*******************
+2021-07-16 19:13:08,335 - inetBanking -INFO - *************User enter the Customer Phone Number*******************
+2021-07-16 19:13:09,612 - inetBanking -INFO - *************User enter the Customer Email*******************
+2021-07-16 19:13:10,276 - inetBanking -INFO - *************User Submit button*******************
+2021-07-16 19:13:10,282 - inetBanking -INFO - *************New Customer created*******************
+2021-07-16 19:13:13,294 - inetBanking -INFO - *************User close the browser*******************
+2021-07-16 19:13:18,683 - inetBanking -INFO - *************Chrome browser is launched*******************
+2021-07-16 19:13:24,431 - inetBanking -INFO - *************User open the URL*******************
+2021-07-16 19:13:24,562 - inetBanking -INFO - *************User maximise the window*******************
+2021-07-16 19:13:24,688 - inetBanking -INFO - *************User enter the User name*******************
+2021-07-16 19:13:24,802 - inetBanking -INFO - *************User enter the Password*******************
+2021-07-16 19:13:26,551 - inetBanking -INFO - *************User clicked on Login button*******************
+2021-07-16 19:13:26,557 - inetBanking -INFO - *************Page title is Matched*******************
+2021-07-16 19:13:26,558 - inetBanking -INFO - *************User close the browser*******************
+2021-07-16 19:13:29,288 - inetBanking -INFO - *************Chrome browser is launched*******************
+2021-07-16 19:13:34,251 - inetBanking -INFO - *************User open the URL*******************
+2021-07-16 19:13:34,383 - inetBanking -INFO - *************User maximise the window*******************
+2021-07-16 19:13:34,534 - inetBanking -INFO - *************User enter the User name*******************
+2021-07-16 19:13:34,680 - inetBanking -INFO - *************User enter the Password*******************
+2021-07-16 19:13:35,978 - inetBanking -INFO - *************User clicked on Login button*******************
+2021-07-16 19:13:35,986 - inetBanking -INFO - *************Page title is Matched*******************
+2021-07-16 19:13:35,986 - inetBanking -INFO - *************User close the browser*******************
+2021-07-16 19:13:42,819 - inetBanking -INFO - *************Chrome browser is launched*******************
+2021-07-16 19:13:50,183 - inetBanking -INFO - *************User open the URL*******************
+2021-07-16 19:13:50,310 - inetBanking -INFO - *************User maximise the window*******************
+2021-07-16 19:13:50,434 - inetBanking -INFO - *************User enter the User name*******************
+2021-07-16 19:13:50,555 - inetBanking -INFO - *************User enter the Password*******************
+2021-07-16 19:13:52,184 - inetBanking -INFO - *************User clicked on Login button*******************
+2021-07-16 19:13:52,194 - inetBanking -INFO - *************Page title is Matched*******************
+2021-07-16 19:13:52,195 - inetBanking -INFO - *************User close the browser*******************
+2021-07-16 19:20:39,261 - inetBanking -INFO - *************Chrome browser is launched*******************
+2021-07-16 19:20:46,878 - inetBanking -INFO - *************User open the URL*******************
+2021-07-16 19:20:47,011 - inetBanking -INFO - *************User maximise the window*******************
+2021-07-16 19:20:47,161 - inetBanking -INFO - *************User enter the User name*******************
+2021-07-16 19:20:47,267 - inetBanking -INFO - *************User enter the Password*******************
+2021-07-16 19:20:48,984 - inetBanking -INFO - *************User clicked on Login button*******************
+2021-07-16 19:20:48,993 - inetBanking -INFO - *************Page title is Matched*******************
+2021-07-16 19:20:48,995 - inetBanking -INFO - *************User close the browser*******************
+2021-07-16 19:21:26,606 - inetBanking -INFO - *************Chrome browser is launched*******************
+2021-07-16 19:21:35,234 - inetBanking -INFO - *************User open the URL*******************
+2021-07-16 19:21:35,364 - inetBanking -INFO - *************User maximise the window*******************
+2021-07-16 19:21:35,500 - inetBanking -INFO - *************User enter the User name*******************
+2021-07-16 19:21:35,621 - inetBanking -INFO - *************User enter the Password*******************
+2021-07-16 19:21:36,883 - inetBanking -INFO - *************User clicked on Login button*******************
+2021-07-16 19:21:36,889 - inetBanking -INFO - *************Page title is Matched*******************
+2021-07-16 19:21:36,892 - inetBanking -INFO - *************User close the browser*******************
+2021-07-16 19:21:39,926 - inetBanking -INFO - *************Chrome browser is launched*******************
+2021-07-16 19:21:48,501 - inetBanking -INFO - *************User open the URL*******************
+2021-07-16 19:21:48,632 - inetBanking -INFO - *************User maximise the window*******************
+2021-07-16 19:21:48,742 - inetBanking -INFO - *************User enter the User name*******************
+2021-07-16 19:21:48,847 - inetBanking -INFO - *************User enter the Password*******************
+2021-07-16 19:21:50,600 - inetBanking -INFO - *************User clicked on Login button*******************
+2021-07-16 19:21:50,608 - inetBanking -INFO - *************Page title is Matched*******************
+2021-07-16 19:21:50,610 - inetBanking -INFO - *************User close the browser*******************
+2021-07-16 19:22:47,697 - inetBanking -INFO - *************Chrome browser is launched*******************
+2021-07-16 19:22:54,011 - inetBanking -INFO - *************User open the URL*******************
+2021-07-16 19:22:54,136 - inetBanking -INFO - *************User maximise the window*******************
+2021-07-16 19:22:54,272 - inetBanking -INFO - *************User enter the User name*******************
+2021-07-16 19:22:54,390 - inetBanking -INFO - *************User enter the Password*******************
+2021-07-16 19:22:58,093 - inetBanking -INFO - *************User clicked on Login button*******************
+2021-07-16 19:22:58,099 - inetBanking -INFO - *************Page title is Matched*******************
+2021-07-16 19:22:58,102 - inetBanking -INFO - *************User clicked on New Customer button*******************
+2021-07-16 19:22:59,081 - inetBanking -INFO - *************Page title is Matched*******************
+2021-07-16 19:22:59,182 - inetBanking -INFO - *************User enter the Customer name*******************
+2021-07-16 19:22:59,247 - inetBanking -INFO - *************User select the Customer gender*******************
+2021-07-16 19:22:59,426 - inetBanking -INFO - *************User enter the Customer DOB*******************
+2021-07-16 19:23:04,499 - inetBanking -INFO - *************User enter the Customer address*******************
+2021-07-16 19:23:04,563 - inetBanking -INFO - *************User enter the Customer City*******************
+2021-07-16 19:23:04,625 - inetBanking -INFO - *************User enter the Customer State*******************
+2021-07-16 19:23:04,697 - inetBanking -INFO - *************User enter the Customer PinCode*******************
+2021-07-16 19:23:04,761 - inetBanking -INFO - *************User enter the Customer Phone Number*******************
+2021-07-16 19:23:04,837 - inetBanking -INFO - *************User enter the Customer Email*******************
+2021-07-16 19:23:05,536 - inetBanking -INFO - *************User Submit button*******************
+2021-07-16 19:23:05,542 - inetBanking -INFO - *************New Customer created*******************
+2021-07-16 19:23:08,555 - inetBanking -INFO - *************User close the browser*******************
+2021-07-16 19:29:52,451 - inetBanking -INFO - *************Chrome browser is launched*******************
+2021-07-16 19:30:02,779 - inetBanking -INFO - *************User open the URL*******************
+2021-07-16 19:30:02,906 - inetBanking -INFO - *************User maximise the window*******************
+2021-07-16 19:30:03,046 - inetBanking -INFO - *************User enter the User name*******************
+2021-07-16 19:30:03,157 - inetBanking -INFO - *************User enter the Password*******************
+2021-07-16 19:30:04,618 - inetBanking -INFO - *************User clicked on Login button*******************
+2021-07-16 19:30:04,631 - inetBanking -INFO - *************Page title is Matched*******************
+2021-07-16 19:30:04,634 - inetBanking -INFO - *************User clicked on New Customer button*******************
+2021-07-16 19:30:07,448 - inetBanking -INFO - *************Page title is Matched*******************
+2021-07-16 19:30:07,529 - inetBanking -INFO - *************User enter the Customer name*******************
+2021-07-16 19:30:07,586 - inetBanking -INFO - *************User select the Customer gender*******************
+2021-07-16 19:30:07,727 - inetBanking -INFO - *************User enter the Customer DOB*******************
+2021-07-16 19:30:12,791 - inetBanking -INFO - *************User enter the Customer address*******************
+2021-07-16 19:30:12,850 - inetBanking -INFO - *************User enter the Customer City*******************
+2021-07-16 19:30:12,910 - inetBanking -INFO - *************User enter the Customer State*******************
+2021-07-16 19:30:12,984 - inetBanking -INFO - *************User enter the Customer PinCode*******************
+2021-07-16 19:30:13,056 - inetBanking -INFO - *************User enter the Customer Phone Number*******************
+2021-07-16 19:30:13,140 - inetBanking -INFO - *************User enter the Customer Email*******************
+2021-07-16 19:30:13,810 - inetBanking -INFO - *************User Submit button*******************
+2021-07-16 19:30:13,815 - inetBanking -INFO - *************New Customer created*******************
+2021-07-16 19:30:16,839 - inetBanking -INFO - *************User close the browser*******************
+2021-07-16 19:30:22,375 - inetBanking -INFO - *************Chrome browser is launched*******************
+2021-07-16 19:30:43,488 - inetBanking -INFO - *************User open the URL*******************
+2021-07-16 19:30:43,607 - inetBanking -INFO - *************User maximise the window*******************
+2021-07-16 19:30:43,713 - inetBanking -INFO - *************User enter the User name*******************
+2021-07-16 19:30:43,810 - inetBanking -INFO - *************User enter the Password*******************
+2021-07-16 19:30:45,839 - inetBanking -INFO - *************User clicked on Login button*******************
+2021-07-16 19:30:45,844 - inetBanking -INFO - *************Page title is Matched*******************
+2021-07-16 19:30:45,846 - inetBanking -INFO - *************User close the browser*******************
+2021-07-16 19:44:40,912 - inetBanking -INFO - *************Chrome browser is launched*******************
+2021-07-16 19:45:01,325 - inetBanking -INFO - *************User open the URL*******************
+2021-07-16 19:45:01,448 - inetBanking -INFO - *************User maximise the window*******************
+2021-07-16 19:45:01,591 - inetBanking -INFO - *************User enter the User name*******************
+2021-07-16 19:45:01,696 - inetBanking -INFO - *************User enter the Password*******************
+2021-07-16 19:45:03,655 - inetBanking -INFO - *************User clicked on Login button*******************
+2021-07-16 19:45:03,665 - inetBanking -INFO - *************Page title is Matched*******************
+2021-07-16 19:45:03,669 - inetBanking -INFO - *************User clicked on New Customer button*******************
+2021-07-16 19:45:05,805 - inetBanking -INFO - *************Page title is Matched*******************
+2021-07-16 19:45:05,883 - inetBanking -INFO - *************User enter the Customer name*******************
+2021-07-16 19:45:05,934 - inetBanking -INFO - *************User select the Customer gender*******************
+2021-07-16 19:45:06,085 - inetBanking -INFO - *************User enter the Customer DOB*******************
+2021-07-16 19:45:11,148 - inetBanking -INFO - *************User enter the Customer address*******************
+2021-07-16 19:45:11,215 - inetBanking -INFO - *************User enter the Customer City*******************
+2021-07-16 19:45:11,274 - inetBanking -INFO - *************User enter the Customer State*******************
+2021-07-16 19:45:11,336 - inetBanking -INFO - *************User enter the Customer PinCode*******************
+2021-07-16 19:45:11,401 - inetBanking -INFO - *************User enter the Customer Phone Number*******************
+2021-07-16 19:45:11,478 - inetBanking -INFO - *************User enter the Customer Email*******************
+2021-07-16 19:45:11,887 - inetBanking -INFO - *************User Submit button*******************
+2021-07-16 19:45:11,896 - inetBanking -INFO - *************New Customer created*******************
+2021-07-16 19:45:14,913 - inetBanking -INFO - *************User close the browser*******************
+2021-07-16 19:45:19,788 - inetBanking -INFO - *************Chrome browser is launched*******************
+2021-07-16 19:45:25,566 - inetBanking -INFO - *************User open the URL*******************
+2021-07-16 19:45:25,686 - inetBanking -INFO - *************User maximise the window*******************
+2021-07-16 19:45:25,817 - inetBanking -INFO - *************User enter the User name*******************
+2021-07-16 19:45:25,934 - inetBanking -INFO - *************User enter the Password*******************
+2021-07-16 19:45:27,576 - inetBanking -INFO - *************User clicked on Login button*******************
+2021-07-16 19:45:27,583 - inetBanking -INFO - *************Page title is Matched*******************
+2021-07-16 19:45:27,584 - inetBanking -INFO - *************User close the browser*******************
+2021-07-16 19:45:33,810 - inetBanking -INFO - *************Chrome browser is launched*******************
+2021-07-16 19:45:43,885 - inetBanking -INFO - *************User open the URL*******************
+2021-07-16 19:45:44,002 - inetBanking -INFO - *************User maximise the window*******************
+2021-07-16 19:45:44,105 - inetBanking -INFO - *************User enter the User name*******************
+2021-07-16 19:45:44,206 - inetBanking -INFO - *************User enter the Password*******************
+2021-07-16 19:45:45,869 - inetBanking -INFO - *************User clicked on Login button*******************
+2021-07-16 19:45:45,875 - inetBanking -INFO - *************Page title is Matched*******************
+2021-07-16 19:45:45,876 - inetBanking -INFO - *************User close the browser*******************
+2021-07-16 19:45:47,804 - inetBanking -INFO - *************Chrome browser is launched*******************
+2021-07-16 19:45:57,930 - inetBanking -INFO - *************User open the URL*******************
+2021-07-16 19:45:58,050 - inetBanking -INFO - *************User maximise the window*******************
+2021-07-16 19:45:58,157 - inetBanking -INFO - *************User enter the User name*******************
+2021-07-16 19:45:58,259 - inetBanking -INFO - *************User enter the Password*******************
+2021-07-16 19:46:00,187 - inetBanking -INFO - *************User clicked on Login button*******************
+2021-07-16 19:46:00,194 - inetBanking -INFO - *************Page title is Matched*******************
+2021-07-16 19:46:00,195 - inetBanking -INFO - *************User close the browser*******************
+2021-07-16 19:51:20,878 - inetBanking -INFO - *************Chrome browser is launched*******************
+2021-07-16 19:51:50,825 - inetBanking -INFO - *************Chrome browser is launched*******************
+2021-07-16 19:51:54,285 - inetBanking -INFO - *************Chrome browser is launched*******************
+2021-07-16 19:55:01,833 - inetBanking -INFO - *************Chrome browser is launched*******************
+2021-07-16 19:55:06,037 - inetBanking -INFO - *************User open the URL*******************
+2021-07-16 19:55:06,156 - inetBanking -INFO - *************User maximise the window*******************
+2021-07-16 19:55:06,507 - inetBanking -INFO - *************User enter the User name*******************
+2021-07-16 19:55:06,634 - inetBanking -INFO - *************User enter the Password*******************
+2021-07-16 19:55:07,739 - inetBanking -INFO - *************User clicked on Login button*******************
+2021-07-16 19:55:07,745 - inetBanking -INFO - *************Page title is Matched*******************
+2021-07-16 19:55:07,751 - inetBanking -INFO - *************User clicked on New Customer button*******************
+2021-07-16 19:55:08,642 - inetBanking -INFO - *************Page title is Matched*******************
+2021-07-16 19:55:08,741 - inetBanking -INFO - *************User enter the Customer name*******************
+2021-07-16 19:55:08,800 - inetBanking -INFO - *************User select the Customer gender*******************
+2021-07-16 19:55:08,967 - inetBanking -INFO - *************User enter the Customer DOB*******************
+2021-07-16 19:55:14,056 - inetBanking -INFO - *************User enter the Customer address*******************
+2021-07-16 19:55:14,143 - inetBanking -INFO - *************User enter the Customer City*******************
+2021-07-16 19:55:14,216 - inetBanking -INFO - *************User enter the Customer State*******************
+2021-07-16 19:55:14,298 - inetBanking -INFO - *************User enter the Customer PinCode*******************
+2021-07-16 19:55:14,371 - inetBanking -INFO - *************User enter the Customer Phone Number*******************
+2021-07-16 19:55:14,468 - inetBanking -INFO - *************User enter the Customer Email*******************
+2021-07-16 19:55:14,876 - inetBanking -INFO - *************User Submit button*******************
+2021-07-16 19:55:14,884 - inetBanking -INFO - *************New Customer created*******************
+2021-07-16 19:55:17,903 - inetBanking -INFO - *************User close the browser*******************
+2021-07-16 19:55:19,236 - inetBanking -INFO - *************Chrome browser is launched*******************
+2021-07-16 19:55:23,472 - inetBanking -INFO - *************User open the URL*******************
+2021-07-16 19:55:23,604 - inetBanking -INFO - *************User maximise the window*******************
+2021-07-16 19:55:23,747 - inetBanking -INFO - *************User enter the User name*******************
+2021-07-16 19:55:23,866 - inetBanking -INFO - *************User enter the Password*******************
+2021-07-16 19:55:25,059 - inetBanking -INFO - *************User clicked on Login button*******************
+2021-07-16 19:55:25,069 - inetBanking -INFO - *************Page title is Matched*******************
+2021-07-16 19:55:25,070 - inetBanking -INFO - *************User close the browser*******************
+2021-07-16 19:55:28,576 - inetBanking -INFO - *************Chrome browser is launched*******************
+2021-07-16 19:55:34,217 - inetBanking -INFO - *************User open the URL*******************
+2021-07-16 19:55:34,331 - inetBanking -INFO - *************User maximise the window*******************
+2021-07-16 19:55:34,462 - inetBanking -INFO - *************User enter the User name*******************
+2021-07-16 19:55:34,571 - inetBanking -INFO - *************User enter the Password*******************
+2021-07-16 19:55:35,968 - inetBanking -INFO - *************User clicked on Login button*******************
+2021-07-16 19:55:35,978 - inetBanking -INFO - *************Page title is Matched*******************
+2021-07-16 19:55:35,979 - inetBanking -INFO - *************User close the browser*******************
+2021-07-16 19:55:38,529 - inetBanking -INFO - *************Chrome browser is launched*******************
+2021-07-16 19:55:43,175 - inetBanking -INFO - *************User open the URL*******************
+2021-07-16 19:55:43,290 - inetBanking -INFO - *************User maximise the window*******************
+2021-07-16 19:55:43,418 - inetBanking -INFO - *************User enter the User name*******************
+2021-07-16 19:55:43,536 - inetBanking -INFO - *************User enter the Password*******************
+2021-07-16 19:55:44,900 - inetBanking -INFO - *************User clicked on Login button*******************
+2021-07-16 19:55:44,910 - inetBanking -INFO - *************Page title is Matched*******************
+2021-07-16 19:55:44,911 - inetBanking -INFO - *************User close the browser*******************
+2021-07-16 19:57:51,904 - inetBanking -INFO - *************Chrome browser is launched*******************
+2021-07-16 19:57:56,625 - inetBanking -INFO - *************User open the URL*******************
+2021-07-16 19:57:56,761 - inetBanking -INFO - *************User maximise the window*******************
+2021-07-16 19:57:56,928 - inetBanking -INFO - *************User enter the User name*******************
+2021-07-16 19:57:57,055 - inetBanking -INFO - *************User enter the Password*******************
+2021-07-16 19:57:58,305 - inetBanking -INFO - *************User clicked on Login button*******************
+2021-07-16 19:57:58,316 - inetBanking -INFO - *************Page title is Matched*******************
+2021-07-16 19:57:58,320 - inetBanking -INFO - *************User clicked on New Customer button*******************
+2021-07-16 19:57:58,759 - inetBanking -INFO - *************Page title is Matched*******************
+2021-07-16 19:57:58,857 - inetBanking -INFO - *************User enter the Customer name*******************
+2021-07-16 19:57:58,915 - inetBanking -INFO - *************User select the Customer gender*******************
+2021-07-16 19:57:59,079 - inetBanking -INFO - *************User enter the Customer DOB*******************
+2021-07-16 19:58:04,166 - inetBanking -INFO - *************User enter the Customer address*******************
+2021-07-16 19:58:04,247 - inetBanking -INFO - *************User enter the Customer City*******************
+2021-07-16 19:58:04,318 - inetBanking -INFO - *************User enter the Customer State*******************
+2021-07-16 19:58:04,391 - inetBanking -INFO - *************User enter the Customer PinCode*******************
+2021-07-16 19:58:04,465 - inetBanking -INFO - *************User enter the Customer Phone Number*******************
+2021-07-16 19:58:04,557 - inetBanking -INFO - *************User enter the Customer Email*******************
+2021-07-16 19:58:04,984 - inetBanking -INFO - *************User Submit button*******************
+2021-07-16 19:58:04,992 - inetBanking -INFO - *************New Customer created*******************
+2021-07-16 19:58:08,003 - inetBanking -INFO - *************User close the browser*******************
+2021-07-16 19:58:11,689 - inetBanking -INFO - *************Chrome browser is launched*******************
+2021-07-16 19:58:16,866 - inetBanking -INFO - *************User open the URL*******************
+2021-07-16 19:58:17,000 - inetBanking -INFO - *************User maximise the window*******************
+2021-07-16 19:58:17,125 - inetBanking -INFO - *************User enter the User name*******************
+2021-07-16 19:58:17,264 - inetBanking -INFO - *************User enter the Password*******************
+2021-07-16 19:58:18,744 - inetBanking -INFO - *************User clicked on Login button*******************
+2021-07-16 19:58:18,752 - inetBanking -INFO - *************Page title is Matched*******************
+2021-07-16 19:58:18,754 - inetBanking -INFO - *************User close the browser*******************
+2021-07-16 19:58:21,445 - inetBanking -INFO - *************Chrome browser is launched*******************
+2021-07-16 19:58:27,578 - inetBanking -INFO - *************User open the URL*******************
+2021-07-16 19:58:27,703 - inetBanking -INFO - *************User maximise the window*******************
+2021-07-16 19:58:27,859 - inetBanking -INFO - *************User enter the User name*******************
+2021-07-16 19:58:27,991 - inetBanking -INFO - *************User enter the Password*******************
+2021-07-16 19:58:29,245 - inetBanking -INFO - *************User clicked on Login button*******************
+2021-07-16 19:58:29,254 - inetBanking -INFO - *************Page title is Matched*******************
+2021-07-16 19:58:29,255 - inetBanking -INFO - *************User close the browser*******************
+2021-07-16 19:58:31,418 - inetBanking -INFO - *************Chrome browser is launched*******************
+2021-07-16 19:58:36,657 - inetBanking -INFO - *************User open the URL*******************
+2021-07-16 19:58:36,781 - inetBanking -INFO - *************User maximise the window*******************
+2021-07-16 19:58:36,909 - inetBanking -INFO - *************User enter the User name*******************
+2021-07-16 19:58:37,026 - inetBanking -INFO - *************User enter the Password*******************
+2021-07-16 19:58:38,087 - inetBanking -INFO - *************User clicked on Login button*******************
+2021-07-16 19:58:38,094 - inetBanking -INFO - *************Page title is Matched*******************
+2021-07-16 19:58:38,094 - inetBanking -INFO - *************User close the browser*******************
+2021-07-16 20:07:15,392 - inetBanking -INFO - *************Chrome browser is launched*******************
+2021-07-16 20:07:19,931 - inetBanking -INFO - *************User open the URL*******************
+2021-07-16 20:07:20,074 - inetBanking -INFO - *************User maximise the window*******************
+2021-07-16 20:07:20,214 - inetBanking -INFO - *************User enter the User name*******************
+2021-07-16 20:07:20,321 - inetBanking -INFO - *************User enter the Password*******************
+2021-07-16 20:07:23,200 - inetBanking -INFO - *************User clicked on Login button*******************
+2021-07-16 20:07:23,207 - inetBanking -INFO - *************Page title is Matched*******************
+2021-07-16 20:07:23,210 - inetBanking -INFO - *************User clicked on New Customer button*******************
+2021-07-16 20:07:23,640 - inetBanking -INFO - *************Page title is Matched*******************
+2021-07-16 20:07:23,718 - inetBanking -INFO - *************User enter the Customer name*******************
+2021-07-16 20:07:23,782 - inetBanking -INFO - *************User select the Customer gender*******************
+2021-07-16 20:07:23,953 - inetBanking -INFO - *************User enter the Customer DOB*******************
+2021-07-16 20:07:29,043 - inetBanking -INFO - *************User enter the Customer address*******************
+2021-07-16 20:07:29,106 - inetBanking -INFO - *************User enter the Customer City*******************
+2021-07-16 20:07:29,165 - inetBanking -INFO - *************User enter the Customer State*******************
+2021-07-16 20:07:29,231 - inetBanking -INFO - *************User enter the Customer PinCode*******************
+2021-07-16 20:07:29,294 - inetBanking -INFO - *************User enter the Customer Phone Number*******************
+2021-07-16 20:07:29,367 - inetBanking -INFO - *************User enter the Customer Email*******************
+2021-07-16 20:07:30,033 - inetBanking -INFO - *************User Submit button*******************
+2021-07-16 20:07:30,038 - inetBanking -INFO - *************New Customer created*******************
+2021-07-16 20:07:33,063 - inetBanking -INFO - *************User close the browser*******************
+2021-07-16 20:07:35,932 - inetBanking -INFO - *************Chrome browser is launched*******************
+2021-07-16 20:12:37,840 - inetBanking -INFO - *************Chrome browser is launched*******************
+2021-07-16 20:12:41,316 - inetBanking -INFO - *************User open the URL*******************
+2021-07-16 20:12:41,445 - inetBanking -INFO - *************User maximise the window*******************
+2021-07-16 20:12:41,636 - inetBanking -INFO - *************User enter the User name*******************
+2021-07-16 20:12:41,769 - inetBanking -INFO - *************User enter the Password*******************
+2021-07-16 20:12:43,072 - inetBanking -INFO - *************User clicked on Login button*******************
+2021-07-16 20:12:43,078 - inetBanking -INFO - *************Page title is Matched*******************
+2021-07-16 20:12:43,080 - inetBanking -INFO - *************User close the browser*******************
+2021-07-16 20:12:45,559 - inetBanking -INFO - *************Chrome browser is launched*******************
+2021-07-16 20:12:50,843 - inetBanking -INFO - *************User open the URL*******************
+2021-07-16 20:12:50,982 - inetBanking -INFO - *************User maximise the window*******************
+2021-07-16 20:12:51,157 - inetBanking -INFO - *************User enter the User name*******************
+2021-07-16 20:12:51,296 - inetBanking -INFO - *************User enter the Password*******************
+2021-07-16 20:12:52,404 - inetBanking -INFO - *************User clicked on Login button*******************
+2021-07-16 20:12:52,410 - inetBanking -INFO - *************Page title is Matched*******************
+2021-07-16 20:12:52,411 - inetBanking -INFO - *************User close the browser*******************
+2021-07-16 20:18:39,533 - inetBanking -INFO - *************Chrome browser is launched*******************
+2021-07-16 20:18:45,279 - inetBanking -INFO - *************User open the URL*******************
+2021-07-16 20:18:45,413 - inetBanking -INFO - *************User maximise the window*******************
+2021-07-16 20:18:45,627 - inetBanking -INFO - *************User enter the User name*******************
+2021-07-16 20:18:45,788 - inetBanking -INFO - *************User enter the Password*******************
+2021-07-16 20:18:46,915 - inetBanking -INFO - *************User clicked on Login button*******************
+2021-07-16 20:18:46,922 - inetBanking -INFO - *************Page title is Matched*******************
+2021-07-16 20:18:46,927 - inetBanking -INFO - *************User clicked on New Customer button*******************
+2021-07-16 20:18:47,654 - inetBanking -INFO - *************Page title is Matched*******************
+2021-07-16 20:18:47,798 - inetBanking -INFO - *************User enter the Customer name*******************
+2021-07-16 20:18:47,895 - inetBanking -INFO - *************User select the Customer gender*******************
+2021-07-16 20:18:48,088 - inetBanking -INFO - *************User enter the Customer DOB*******************
+2021-07-16 20:18:53,179 - inetBanking -INFO - *************User enter the Customer address*******************
+2021-07-16 20:18:53,257 - inetBanking -INFO - *************User enter the Customer City*******************
+2021-07-16 20:18:53,348 - inetBanking -INFO - *************User enter the Customer State*******************
+2021-07-16 20:18:53,451 - inetBanking -INFO - *************User enter the Customer PinCode*******************
+2021-07-16 20:18:53,546 - inetBanking -INFO - *************User enter the Customer Phone Number*******************
+2021-07-16 20:18:53,676 - inetBanking -INFO - *************User enter the Customer Email*******************
+2021-07-16 20:18:54,124 - inetBanking -INFO - *************User Submit button*******************
+2021-07-16 20:18:54,133 - inetBanking -INFO - *************New Customer created*******************
+2021-07-16 20:18:57,174 - inetBanking -INFO - *************User close the browser*******************
+2021-07-16 20:18:59,491 - inetBanking -INFO - *************Chrome browser is launched*******************
+2021-07-16 20:19:04,413 - inetBanking -INFO - *************User open the URL*******************
+2021-07-16 20:19:04,554 - inetBanking -INFO - *************User maximise the window*******************
+2021-07-16 20:19:04,756 - inetBanking -INFO - *************User enter the User name*******************
+2021-07-16 20:19:04,952 - inetBanking -INFO - *************User enter the Password*******************
+2021-07-16 20:19:06,211 - inetBanking -INFO - *************User clicked on Login button*******************
+2021-07-16 20:19:06,217 - inetBanking -INFO - *************Page title is Matched*******************
+2021-07-16 20:19:06,218 - inetBanking -INFO - *************User close the browser*******************
+2021-07-16 20:25:34,152 - inetBanking -INFO - *************Chrome browser is launched*******************
+2021-07-16 20:25:38,855 - inetBanking -INFO - *************User open the URL*******************
+2021-07-16 20:25:38,986 - inetBanking -INFO - *************User maximise the window*******************
+2021-07-16 20:25:39,360 - inetBanking -INFO - *************User enter the User name*******************
+2021-07-16 20:25:39,586 - inetBanking -INFO - *************User enter the Password*******************
+2021-07-16 20:25:40,942 - inetBanking -INFO - *************User clicked on Login button*******************
+2021-07-16 20:25:40,961 - inetBanking -INFO - *************Page title is Matched*******************
+2021-07-16 20:25:40,968 - inetBanking -INFO - *************User clicked on New Customer button*******************
+2021-07-16 20:25:42,003 - inetBanking -INFO - *************Page title is Matched*******************
+2021-07-16 20:25:42,152 - inetBanking -INFO - *************User enter the Customer name*******************
+2021-07-16 20:25:42,255 - inetBanking -INFO - *************User select the Customer gender*******************
+2021-07-16 20:25:42,533 - inetBanking -INFO - *************User enter the Customer DOB*******************
+2021-07-16 20:25:47,671 - inetBanking -INFO - *************User enter the Customer address*******************
+2021-07-16 20:25:47,817 - inetBanking -INFO - *************User enter the Customer City*******************
+2021-07-16 20:25:47,951 - inetBanking -INFO - *************User enter the Customer State*******************
+2021-07-16 20:25:48,066 - inetBanking -INFO - *************User enter the Customer PinCode*******************
+2021-07-16 20:25:48,194 - inetBanking -INFO - *************User enter the Customer Phone Number*******************
+2021-07-16 20:25:48,365 - inetBanking -INFO - *************User enter the Customer Email*******************
+2021-07-16 20:25:48,865 - inetBanking -INFO - *************User Submit button*******************
+2021-07-16 20:25:48,885 - inetBanking -INFO - *************New Customer created*******************
+2021-07-16 20:25:51,903 - inetBanking -INFO - *************User close the browser*******************
+2021-07-16 20:25:55,328 - inetBanking -INFO - *************Chrome browser is launched*******************
+2021-07-16 20:26:01,400 - inetBanking -INFO - *************User open the URL*******************
+2021-07-16 20:26:01,523 - inetBanking -INFO - *************User maximise the window*******************
+2021-07-16 20:26:01,713 - inetBanking -INFO - *************User enter the User name*******************
+2021-07-16 20:26:01,900 - inetBanking -INFO - *************User enter the Password*******************
+2021-07-16 20:26:03,478 - inetBanking -INFO - *************User clicked on Login button*******************
+2021-07-16 20:26:03,491 - inetBanking -INFO - *************Page title is Matched*******************
+2021-07-16 20:26:03,493 - inetBanking -INFO - *************User close the browser*******************
+2021-07-16 20:26:06,704 - inetBanking -INFO - *************Chrome browser is launched*******************
+2021-07-16 20:26:11,380 - inetBanking -INFO - *************User open the URL*******************
+2021-07-16 20:26:11,515 - inetBanking -INFO - *************User maximise the window*******************
+2021-07-16 20:26:11,693 - inetBanking -INFO - *************User enter the User name*******************
+2021-07-16 20:26:11,859 - inetBanking -INFO - *************User enter the Password*******************
+2021-07-16 20:26:12,981 - inetBanking -INFO - *************User clicked on Login button*******************
+2021-07-16 20:26:12,996 - inetBanking -INFO - *************Page title is Matched*******************
+2021-07-16 20:26:12,998 - inetBanking -INFO - *************User close the browser*******************
+2021-07-16 20:26:15,719 - inetBanking -INFO - *************Chrome browser is launched*******************
+2021-07-16 20:26:19,576 - inetBanking -INFO - *************User open the URL*******************
+2021-07-16 20:26:19,702 - inetBanking -INFO - *************User maximise the window*******************
+2021-07-16 20:26:19,944 - inetBanking -INFO - *************User enter the User name*******************
+2021-07-16 20:26:20,237 - inetBanking -INFO - *************User enter the Password*******************
+2021-07-16 20:26:22,073 - inetBanking -INFO - *************User clicked on Login button*******************
+2021-07-16 20:26:22,081 - inetBanking -INFO - *************Page title is Matched*******************
+2021-07-16 20:26:22,085 - inetBanking -INFO - *************User close the browser*******************
+2021-07-16 20:45:50,432 - inetBanking -INFO - *************Chrome browser is launched*******************
+2021-07-16 20:45:55,617 - inetBanking -INFO - *************User open the URL*******************
+2021-07-16 20:45:55,765 - inetBanking -INFO - *************User maximise the window*******************
+2021-07-16 20:45:56,044 - inetBanking -INFO - *************User enter the User name*******************
+2021-07-16 20:45:56,272 - inetBanking -INFO - *************User enter the Password*******************
+2021-07-16 20:45:57,625 - inetBanking -INFO - *************User clicked on Login button*******************
+2021-07-16 20:45:57,643 - inetBanking -INFO - *************Page title is Matched*******************
+2021-07-16 20:45:57,651 - inetBanking -INFO - *************User clicked on New Customer button*******************
+2021-07-16 20:45:58,334 - inetBanking -INFO - *************Page title is Matched*******************
+2021-07-16 20:45:58,505 - inetBanking -INFO - *************User enter the Customer name*******************
+2021-07-16 20:45:58,626 - inetBanking -INFO - *************User select the Customer gender*******************
+2021-07-16 20:45:58,923 - inetBanking -INFO - *************User enter the Customer DOB*******************
+2021-07-16 20:46:04,027 - inetBanking -INFO - *************User enter the Customer address*******************
+2021-07-16 20:46:04,149 - inetBanking -INFO - *************User enter the Customer City*******************
+2021-07-16 20:46:04,276 - inetBanking -INFO - *************User enter the Customer State*******************
+2021-07-16 20:46:04,417 - inetBanking -INFO - *************User enter the Customer PinCode*******************
+2021-07-16 20:46:04,545 - inetBanking -INFO - *************User enter the Customer Phone Number*******************
+2021-07-16 20:46:04,732 - inetBanking -INFO - *************User enter the Customer Email*******************
+2021-07-16 20:46:05,216 - inetBanking -INFO - *************User Submit button*******************
+2021-07-16 20:46:05,228 - inetBanking -INFO - *************New Customer created*******************
+2021-07-16 20:46:08,246 - inetBanking -INFO - *************User close the browser*******************
+2021-07-16 20:46:10,223 - inetBanking -INFO - *************Chrome browser is launched*******************
+2021-07-16 20:46:15,472 - inetBanking -INFO - *************User open the URL*******************
+2021-07-16 20:46:15,627 - inetBanking -INFO - *************User maximise the window*******************
+2021-07-16 20:46:16,001 - inetBanking -INFO - *************User enter the User name*******************
+2021-07-16 20:46:16,234 - inetBanking -INFO - *************User enter the Password*******************
+2021-07-16 20:46:17,711 - inetBanking -INFO - *************User clicked on Login button*******************
+2021-07-16 20:46:17,725 - inetBanking -INFO - *************Page title is Matched*******************
+2021-07-16 20:46:17,727 - inetBanking -INFO - *************User close the browser*******************
+2021-07-16 20:46:19,735 - inetBanking -INFO - *************Chrome browser is launched*******************
+2021-07-16 20:46:25,133 - inetBanking -INFO - *************User open the URL*******************
+2021-07-16 20:46:25,275 - inetBanking -INFO - *************User maximise the window*******************
+2021-07-16 20:46:25,475 - inetBanking -INFO - *************User enter the User name*******************
+2021-07-16 20:46:25,668 - inetBanking -INFO - *************User enter the Password*******************
+2021-07-16 20:46:26,904 - inetBanking -INFO - *************User clicked on Login button*******************
+2021-07-16 20:46:26,912 - inetBanking -INFO - *************Page title is Matched*******************
+2021-07-16 20:46:26,913 - inetBanking -INFO - *************User close the browser*******************
+2021-07-16 20:46:28,756 - inetBanking -INFO - *************Chrome browser is launched*******************
+2021-07-16 20:46:33,546 - inetBanking -INFO - *************User open the URL*******************
+2021-07-16 20:46:33,673 - inetBanking -INFO - *************User maximise the window*******************
+2021-07-16 20:46:33,858 - inetBanking -INFO - *************User enter the User name*******************
+2021-07-16 20:46:34,046 - inetBanking -INFO - *************User enter the Password*******************
+2021-07-16 20:46:35,594 - inetBanking -INFO - *************User clicked on Login button*******************
+2021-07-16 20:46:35,606 - inetBanking -INFO - *************Page title is Matched*******************
+2021-07-16 20:46:35,608 - inetBanking -INFO - *************User close the browser*******************
+2021-07-16 20:58:11,764 - inetBanking -INFO - *************Chrome browser is launched*******************
+2021-07-16 20:58:16,537 - inetBanking -INFO - *************User open the URL*******************
+2021-07-16 20:58:16,664 - inetBanking -INFO - *************User maximise the window*******************
+2021-07-16 20:58:16,830 - inetBanking -INFO - *************User enter the User name*******************
+2021-07-16 20:58:16,974 - inetBanking -INFO - *************User enter the Password*******************
+2021-07-16 20:58:19,066 - inetBanking -INFO - *************User clicked on Login button*******************
+2021-07-16 20:58:19,074 - inetBanking -INFO - *************Page title is Matched*******************
+2021-07-16 20:58:19,074 - inetBanking -INFO - *************User close the browser*******************
+2021-07-16 21:07:47,994 - inetBanking -INFO - *************Chrome browser is launched*******************
+2021-07-16 21:07:56,201 - inetBanking -INFO - *************User open the URL*******************
+2021-07-16 21:07:56,346 - inetBanking -INFO - *************User maximise the window*******************
+2021-07-16 21:07:56,639 - inetBanking -INFO - *************User enter the User name*******************
+2021-07-16 21:07:56,812 - inetBanking -INFO - *************User enter the Password*******************
+2021-07-16 21:07:57,918 - inetBanking -INFO - *************User clicked on Login button*******************
+2021-07-16 21:07:57,923 - inetBanking -INFO - *************Page title is Matched*******************
+2021-07-16 21:07:57,929 - inetBanking -INFO - *************User clicked on New Customer button*******************
+2021-07-16 21:07:58,796 - inetBanking -INFO - *************Page title is Matched*******************
+2021-07-16 21:07:58,900 - inetBanking -INFO - *************User enter the Customer name*******************
+2021-07-16 21:07:58,973 - inetBanking -INFO - *************User select the Customer gender*******************
+2021-07-16 21:07:59,182 - inetBanking -INFO - *************User enter the Customer DOB*******************
+2021-07-16 21:08:04,270 - inetBanking -INFO - *************User enter the Customer address*******************
+2021-07-16 21:08:04,367 - inetBanking -INFO - *************User enter the Customer City*******************
+2021-07-16 21:08:04,445 - inetBanking -INFO - *************User enter the Customer State*******************
+2021-07-16 21:08:04,534 - inetBanking -INFO - *************User enter the Customer PinCode*******************
+2021-07-16 21:08:04,634 - inetBanking -INFO - *************User enter the Customer Phone Number*******************
+2021-07-16 21:08:04,752 - inetBanking -INFO - *************User enter the Customer Email*******************
+2021-07-16 21:08:05,512 - inetBanking -INFO - *************User Submit button*******************
+2021-07-16 21:08:05,519 - inetBanking -INFO - *************New Customer created*******************
+2021-07-16 21:08:08,539 - inetBanking -INFO - *************User close the browser*******************
+2021-07-16 21:08:10,213 - inetBanking -INFO - *************Chrome browser is launched*******************
+2021-07-16 21:08:14,099 - inetBanking -INFO - *************User open the URL*******************
+2021-07-16 21:08:14,224 - inetBanking -INFO - *************User maximise the window*******************
+2021-07-16 21:08:14,382 - inetBanking -INFO - *************User enter the User name*******************
+2021-07-16 21:08:14,573 - inetBanking -INFO - *************User enter the Password*******************
+2021-07-16 21:08:15,722 - inetBanking -INFO - *************User clicked on Login button*******************
+2021-07-16 21:08:15,731 - inetBanking -INFO - *************Page title is Matched*******************
+2021-07-16 21:08:15,732 - inetBanking -INFO - *************User close the browser*******************
+2021-07-16 21:08:19,023 - inetBanking -INFO - *************Chrome browser is launched*******************
+2021-07-16 21:08:22,694 - inetBanking -INFO - *************User open the URL*******************
+2021-07-16 21:08:22,837 - inetBanking -INFO - *************User maximise the window*******************
+2021-07-16 21:08:23,010 - inetBanking -INFO - *************User enter the User name*******************
+2021-07-16 21:08:23,152 - inetBanking -INFO - *************User enter the Password*******************
+2021-07-16 21:08:24,204 - inetBanking -INFO - *************User clicked on Login button*******************
+2021-07-16 21:08:24,213 - inetBanking -INFO - *************Page title is Matched*******************
+2021-07-16 21:08:24,214 - inetBanking -INFO - *************User close the browser*******************
+2021-07-16 21:08:25,719 - inetBanking -INFO - *************Chrome browser is launched*******************
+2021-07-16 21:08:30,436 - inetBanking -INFO - *************User open the URL*******************
+2021-07-16 21:08:30,559 - inetBanking -INFO - *************User maximise the window*******************
+2021-07-16 21:08:30,705 - inetBanking -INFO - *************User enter the User name*******************
+2021-07-16 21:08:30,853 - inetBanking -INFO - *************User enter the Password*******************
+2021-07-16 21:08:32,366 - inetBanking -INFO - *************User clicked on Login button*******************
+2021-07-16 21:08:32,374 - inetBanking -INFO - *************Page title is Matched*******************
+2021-07-16 21:08:32,375 - inetBanking -INFO - *************User close the browser*******************
